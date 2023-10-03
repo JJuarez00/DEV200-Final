@@ -5,7 +5,7 @@
 <h1 align="center"> Storage Unit Rental Project - SDEV200</h1>
 
 ## Status:
-Work-In progress
+Work-In progress as of October 3, 2023
 
 ## Create by:
 Joseph Juarez
