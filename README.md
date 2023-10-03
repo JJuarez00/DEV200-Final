@@ -4,6 +4,9 @@
 
 <h1 align="center"> Storage Unit Rental Project - SDEV200</h1>
 
+## Status:
+Work-In progress
+
 ## Create by:
 Joseph Juarez
 
