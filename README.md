@@ -4,7 +4,7 @@
 
 <h1 align="center"> Storage Unit Rental Project - SDEV200</h1>
 
-##Create by:
+## Create by:
 Joseph Juarez
 
 ## Main: Goal:
