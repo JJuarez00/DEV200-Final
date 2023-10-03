@@ -4,7 +4,8 @@
 
 <h1 align="center"> Storage Unit Rental Project - SDEV200</h1>
 
-Create by: Joseph Juarez
+##Create by:
+Joseph Juarez
 
 ## Main: Goal:
 This application will allow users to search for available storage units, reserve units, and manage their rental agreements.
