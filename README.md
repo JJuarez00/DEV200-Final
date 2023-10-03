@@ -8,7 +8,10 @@
 Joseph Juarez
 
 ## Main: Goal:
-This application will allow users to search for available storage units, reserve units, and manage their rental agreements.
+This application will allow users to:
+- search for available storage units
+- reserve units
+- manage their rental agreements
 
 
 ## Story:
