@@ -3,7 +3,7 @@ Storage Unit Rental Project
 
 Create by: Joseph Juarez
 
-<br>Description<br>: 
+<br>Description:<br>: 
 Welcome to Joe’s Rental Storage Online Center, 
 a user-friendly platform designed to simplify the process of finding, reserving, 
 and managing storage units. With this application, users can effortlessly explore and search for available storage units,
