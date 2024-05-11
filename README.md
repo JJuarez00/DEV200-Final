@@ -4,9 +4,6 @@
 
 <h1 align="center"> Storage Unit Rental Project - SDEV200</h1>
 
-## Status:
-Incomplete but turned in: issues with servlets
-
 ## Create by:
 Joseph Juarez
 
